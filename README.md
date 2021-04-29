@@ -11,3 +11,6 @@ Este es el texto del repositorio.....
 
 **Texto en negritas**  
 *Texto en itálica*  
+
+[Este es un enlace al sitio web de la UCR](https://www.ucr.ac.cr/)
+
